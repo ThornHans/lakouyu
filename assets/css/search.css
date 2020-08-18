@@ -1,0 +1,19 @@
+.suchen {
+	margin-top: 1em;
+}
+
+.suchen span{
+	text-align: center;
+	font-size: 3em;
+	font-weight: bolder;
+	font-family: Times New Roma;
+}
+.s-list ul{
+	list-style: none;
+	
+}
+
+.s-list li{
+	font-size: 1.5em;
+	color:blue;
+}
