@@ -1,0 +1,28 @@
+
+--2017-08-29 02:32:04--  http://documents/
+Resolving documents... 110.52.11.56
+Connecting to documents|110.52.11.56|:80... failed: Operation timed out.
+Retrying.
+
+--2017-08-29 02:33:31--  (try: 2)  http://documents/
+Connecting to documents|110.52.11.56|:80... failed: Operation timed out.
+Retrying.
+
+--2017-08-29 02:34:58--  (try: 3)  http://documents/
+Connecting to documents|110.52.11.56|:80... failed: Operation timed out.
+Retrying.
+
+--2017-08-29 02:36:26--  (try: 4)  http://documents/
+Connecting to documents|110.52.11.56|:80... failed: Operation timed out.
+Retrying.
+
+--2017-08-29 02:37:55--  (try: 5)  http://documents/
+Connecting to documents|110.52.11.56|:80... failed: Operation timed out.
+Retrying.
+
+--2017-08-29 02:39:25--  (try: 6)  http://documents/
+Connecting to documents|110.52.11.56|:80... failed: Operation timed out.
+Retrying.
+
+--2017-08-29 02:40:33--  (try: 7)  http://documents/
+Connecting to documents|110.52.11.56|:80... 
